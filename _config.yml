@@ -15,7 +15,7 @@
 
 # server
   baseurl:          "/test" # workaround for our GitHub Pages hosting
-  destination:      "gh-pages/material" # workaround for our GitHub Pages hosting
+  destination:      "gh-pages/test" # workaround for our GitHub Pages hosting
   encoding:         "UTF-8"
   exclude:          
                     - .babelrc.js
@@ -38,7 +38,7 @@
   host:             0.0.0.0
   port:             9999
   source:           "."
-  url:              "http://daemonite.github.io/material"
+  url:              "http://napolgamerth.github.io/test"
 
 # social
   authors:          "Daemonite"
