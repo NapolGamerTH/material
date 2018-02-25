@@ -14,7 +14,7 @@
                     - jekyll-toc
 
 # server
-  baseurl:          "/material" # workaround for our GitHub Pages hosting
+  baseurl:          "/test" # workaround for our GitHub Pages hosting
   destination:      "gh-pages/material" # workaround for our GitHub Pages hosting
   encoding:         "UTF-8"
   exclude:          
